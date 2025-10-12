@@ -342,19 +342,19 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/image...._a372a936-8670-4223-8fdc-e57784962cb7.png",
-            "slide_link": "",
-            "subheading": "Tell your story",
-            "title": "Slide heading",
+            "slide_link": "shopify://collections/bracelet",
+            "subheading": "",
+            "title": "Shine Bright with Every Layer",
             "heading_max_width": 15,
             "title_size": 84,
             "title_size_mobile": 46,
             "use_h1": false,
-            "text": "<p>And optional subtext</p>",
-            "enlarge_text": true,
-            "button_label_1": "Shop this",
-            "button_url_1": "",
+            "text": "<p>✨ <em>Each necklace is designed to highlight your natural beauty and elevate every look.</em></p><p><br/></p>",
+            "enlarge_text": false,
+            "button_label_1": "Shop all",
+            "button_url_1": "shopify://collections/rings",
             "button_label_2": "Shop all",
-            "button_url_2": "",
+            "button_url_2": "shopify://collections/bracelet",
             "text_alignment": "center center"
           }
         },
@@ -406,7 +406,7 @@
           "settings": {
             "enable_media": true,
             "image": "shopify://shop_images/file_c0f8782c-1137-402f-a70f-8afa46297258.jpg",
-            "title": "Add a title or tagline",
+            "title": "Elegant & Timeless",
             "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
             "button_label": "Optional button",
             "link": ""
