@@ -125,7 +125,7 @@
       ],
       "settings": {
         "head_not_home_only": false,
-        "head_not_col_bg": "#f4f6f8",
+        "head_not_col_bg": "#c2c9cf",
         "head_not_col_txt1": "#171717",
         "head_not_col_txt2": "#4c4c4b",
         "head_not_mob_show": true,
