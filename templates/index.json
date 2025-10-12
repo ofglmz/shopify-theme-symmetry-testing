@@ -79,14 +79,14 @@
         "1635927863703110df-1": {
           "type": "heading",
           "settings": {
-            "title": "Rich text",
+            "title": "Welcome to Savaedesign ✨",
             "use_h1": false
           }
         },
         "1635927863703110df-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text to share information about your store with your customers. Describe products, share announcements, or welcome customers to your store.</p>",
+            "text": "<p></p><p>We’re delighted to have you here! At <strong>Savaedesign</strong>, we believe every piece of jewelry should tell a story  your story. Our handcrafted designs blend timeless elegance with modern creativity, offering unique collections made to shine with every outfit and occasion.<br/>💍 Explore our signature rings, necklaces, earrings, and bracelets  all crafted with love and attention to detail.<br/>🌟 Stay tuned for new arrivals, exclusive offers, and special announcements we’re just getting started!</p><p>Thank you for choosing Savaedesign  where beauty meets craftsmanship.</p>",
             "enlarge_text": true
           }
         }
