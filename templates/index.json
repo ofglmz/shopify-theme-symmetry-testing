@@ -131,6 +131,21 @@
         "full_width": true
       }
     },
+    "featured_collection_CRe8UY": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "title": "Bracelet collection",
+        "collection": "bestsellers",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "color_scheme": "default",
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
     "16359278867b92de38": {
       "type": "image-with-text",
       "blocks": {
@@ -639,21 +654,6 @@
         "coll_thumb_text_align_y": "center",
         "coll_button_style": "primary"
       }
-    },
-    "featured_collection_CRe8UY": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "title": "Featured collection",
-        "collection": "bestsellers",
-        "show_vendor": false,
-        "enable_carousel": true,
-        "grid": 4,
-        "rows": 1,
-        "color_scheme": "default",
-        "show_view_all": true,
-        "full_width": true
-      }
     }
   },
   "order": [
@@ -661,6 +661,7 @@
     "1635927863703110df",
     "16359278676808bea5",
     "featured_collection_yADe6b",
+    "featured_collection_CRe8UY",
     "16359278867b92de38",
     "16359279164ff7d3f3",
     "16359281184fd0d618",
@@ -670,7 +671,6 @@
     "1635928580d75f81bf",
     "1635928697c562053a",
     "163592870141219e2f",
-    "collection_list_pcq84K",
-    "featured_collection_CRe8UY"
+    "collection_list_pcq84K"
   ]
 }
