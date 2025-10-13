@@ -277,11 +277,11 @@
           "type": "testimonial",
           "settings": {
             "star_rating": 5,
-            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
-            "author": "Author's name",
+            "testimonial": "The Birthstone I bought feels so special. It fits perfectly and looks luxurious. You can tell it’s made with care and attention to detail.",
+            "author": "Ranya T.",
             "image": "shopify://shop_images/imgi_101_s-l1600.jpg",
-            "image_caption": "",
-            "link": ""
+            "image_caption": "Birthstone",
+            "link": "shopify://collections/birthstone"
           }
         },
         "16359281184fd0d618-1": {
