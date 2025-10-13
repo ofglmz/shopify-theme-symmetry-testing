@@ -158,14 +158,14 @@
         "8963d659-f502-4f87-9a3f-d5c8c7f4bda5": {
           "type": "heading",
           "settings": {
-            "title": "Image with text",
+            "title": "Savaedesign Necklaces",
             "use_h1": false
           }
         },
         "ae36be52-0e56-4829-ac5d-f47fd671d46b": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.</p>",
+            "text": "<p> where elegance meets artistry. Each piece is crafted to add timeless beauty and effortless charm to your look.<br/><br/></p>",
             "enlarge_text": false
           }
         },
@@ -173,7 +173,7 @@
           "type": "button",
           "settings": {
             "button_label": "Button text",
-            "button_link": "",
+            "button_link": "shopify://collections/necklace",
             "button_style": "primary"
           }
         }
@@ -187,8 +187,8 @@
       "settings": {
         "image": "shopify://shop_images/imgi_105_s-l1600.jpg",
         "image_2": "shopify://shop_images/Scc37b5765b0c44b6842515b71d4a96a87.webp",
-        "image_width": 700,
-        "image_link": "",
+        "image_width": 370,
+        "image_link": "shopify://collections/necklace",
         "image_position": "left",
         "text_alignment": "left",
         "color_scheme": "default"
