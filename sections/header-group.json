@@ -53,7 +53,7 @@
       ],
       "settings": {
         "message_font_size": 14,
-        "announcement_bar_col": "#4a4a4a",
+        "announcement_bar_col": "#838383",
         "announcement_bar_gradient": "",
         "announcement_text_col": "#ffffff",
         "show_social_icons": true,
