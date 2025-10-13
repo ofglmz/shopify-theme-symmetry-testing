@@ -437,9 +437,9 @@
             "enable_media": true,
             "image": "shopify://shop_images/file_c0f8782c-1137-402f-a70f-8afa46297258.jpg",
             "title": "Elegant & Timeless",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
+            "text": "<p><br/>At <strong>Savaedesign</strong>, we believe jewelry is more than just an accessory it’s a reflection of your story, confidence, and style. Each piece in our collection is thoughtfully handcrafted with love, precision, and a touch of timeless elegance.<br/><br/></p>",
             "button_label": "Optional button",
-            "link": ""
+            "link": "shopify://collections/bracelet"
           }
         },
         "163592857728b8bdc2-1": {
@@ -447,8 +447,8 @@
           "settings": {
             "enable_media": true,
             "image": "shopify://shop_images/imgi_104_s-l1600.jpg",
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
+            "title": "Modern & Chic",
+            "text": "<p><br/>Our products are available in limited quantities to maintain premium quality and exclusivity. From classic gold tones to minimalist silver finishes, there’s a piece for every mood and moment.<br/><br/></p>",
             "button_label": "Optional button",
             "link": ""
           }
@@ -458,10 +458,10 @@
           "settings": {
             "enable_media": true,
             "image": "shopify://shop_images/0009_M-L-GOLD-BEADED-BUBBLE-BIRTHSTONE-BRACELET-TRIO-2.jpg",
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
+            "title": "Simple & Sophisticated",
+            "text": "<p><br/>every design is crafted to capture more than beauty  it embodies your story, grace, and individuality. Our pieces are carefully handcrafted with refined artistry and a touch of everlasting sophistication.<br/><br/></p>",
             "button_label": "Optional button",
-            "link": ""
+            "link": "shopify://collections/bracelet"
           }
         }
       },
