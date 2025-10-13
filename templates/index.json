@@ -172,7 +172,7 @@
         "2e5b8e45-d07b-473e-9562-15a4d3d196d5": {
           "type": "button",
           "settings": {
-            "button_label": "Button text",
+            "button_label": "Buy Now",
             "button_link": "shopify://collections/necklace",
             "button_style": "primary"
           }
@@ -202,10 +202,10 @@
           "settings": {
             "image": "shopify://shop_images/CrossCharmBirthstonePaperclipBracelet_15.jpg",
             "enlarge_media": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
-            "button_label": "",
-            "link": "",
+            "subheading": "Bracelet",
+            "title": "Every bracelet begins as a spark of inspiration a moment captured in design.",
+            "button_label": "Buy now",
+            "link": "shopify://collections/bracelet",
             "text_alignment": "bottom left"
           }
         },
@@ -214,10 +214,10 @@
           "settings": {
             "image": "shopify://shop_images/From_KlickPin_CF_Gold_Plated_Sterling_Silver_Shahmaran_Bracelet_Colorful_Zircon_Stone_Hand_Chain_in_2025___Hand_jewelry_Hand_chain_Chain_link_bracelet.jpg",
             "enlarge_media": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
-            "button_label": "",
-            "link": "",
+            "subheading": "Hand Chain Bracelet",
+            "title": "The Hand Chain Bracelet was created for those who love subtle luxury.",
+            "button_label": "Buy Now",
+            "link": "shopify://collections/hand-chain-bracelet",
             "text_alignment": "bottom left"
           }
         },
@@ -226,10 +226,10 @@
           "settings": {
             "image": "shopify://shop_images/WhatsAppImage2025-09-04at16.13.09_3.jpg",
             "enlarge_media": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
-            "button_label": "",
-            "link": "",
+            "subheading": "Rings",
+            "title": "Each  ring is more than an accessory  it’s a reflection of love, strength.",
+            "button_label": "Buy Now",
+            "link": "shopify://collections/rings",
             "text_alignment": "bottom left"
           }
         },
@@ -238,10 +238,10 @@
           "settings": {
             "image": "shopify://shop_images/S07861e2b88fb4b0d9a6b7604ba3a75c4b.webp",
             "enlarge_media": false,
-            "subheading": "Gallery",
-            "title": "Tell your story",
-            "button_label": "",
-            "link": "",
+            "subheading": "Stackable Rings",
+            "title": "Each ring is delicately crafted to mix, match, and layer",
+            "button_label": "Buy Now",
+            "link": "shopify://collections/stackable-rings",
             "text_alignment": "bottom left"
           }
         }
