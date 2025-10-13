@@ -586,75 +586,6 @@
         "crop_ratio": "1.78",
         "color_scheme": "2"
       }
-    },
-    "collection_list_pcq84K": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_GkQxRF": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "button_label": ""
-          }
-        },
-        "collection_6Y7LUt": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "button_label": ""
-          }
-        },
-        "collection_dWBt6j": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "button_label": ""
-          }
-        },
-        "collection_Dc8BVq": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "button_label": ""
-          }
-        },
-        "collection_9xLGMe": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "button_label": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_GkQxRF",
-        "collection_6Y7LUt",
-        "collection_dWBt6j",
-        "collection_Dc8BVq",
-        "collection_9xLGMe"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "title": "Collection list",
-        "enable_carousel": true,
-        "grid": 4,
-        "color_scheme": "default",
-        "full_width": false,
-        "coll_grid_image_shape": "square",
-        "coll_grid_image_position": "center center",
-        "coll_thumb_mob_per_row": "2",
-        "coll_grid_show_count": true,
-        "coll_text_position": "below",
-        "coll_text_position_under_mobile": false,
-        "coll_thumb_text_align_x": "center",
-        "coll_thumb_text_align_y": "center",
-        "coll_button_style": "primary"
-      }
     }
   },
   "order": [
@@ -671,7 +602,6 @@
     "163592857728b8bdc2",
     "1635928580d75f81bf",
     "1635928697c562053a",
-    "163592870141219e2f",
-    "collection_list_pcq84K"
+    "163592870141219e2f"
   ]
 }
