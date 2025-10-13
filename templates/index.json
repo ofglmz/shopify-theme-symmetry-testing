@@ -575,6 +575,7 @@
     },
     "163592870141219e2f": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "title": "Blog posts",
         "blog": "",
