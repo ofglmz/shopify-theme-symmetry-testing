@@ -77,7 +77,7 @@
           "type": "menu",
           "settings": {
             "title": "Quick links",
-            "menu": "footer"
+            "menu": "footer-menu"
           }
         },
         "1601308656020": {
