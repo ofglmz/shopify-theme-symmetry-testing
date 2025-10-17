@@ -1,3 +1,15 @@
+# Robots.txt for Savaé Design Shopify Store
+
 User-agent: *
-Disallow:
+# Engellenmesi gereken özel sayfalar
+Disallow: /checkout
+Disallow: /cart
+Disallow: /orders
+Disallow: /account
+Disallow: /admin
+
+# Tüm diğer sayfalar indekslenebilir
+Allow: /
+
+# Sitemap konumu
 Sitemap: {{ shop.url }}/sitemap.xml
