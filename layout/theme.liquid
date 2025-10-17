@@ -10,7 +10,6 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}" dir="{{ lang_dir }}">
 <head>
-  <meta name="google-site-verification" content="0XjygBLybTF35ZAHvZyakfLRQcavvIIhhP50PRXaJEQ" />
   {%- render 'doc-head-core' -%}
   {%- render 'doc-head-social' -%}
 
@@ -173,7 +172,7 @@
     <!-- CC Custom Head End -->
   {%- endif -%}
 </head>
-
+<meta name="google-site-verification" content="0XjygBLybTF35ZAHvZyakfLRQcavvIIhhP50PRXaJEQ" />
 <body class="template-{{ template | split: '.' | first | handle }}
     {%- if template.suffix %} template-suffix-{{ template.suffix }}{% endif -%}
     {%- if settings.swatch_source == 'native' %} swatch-source-native swatch-method-swatches swatch-style-{{ settings.swatch_style }}
