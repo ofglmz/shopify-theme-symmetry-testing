@@ -15,9 +15,6 @@
   <link rel="canonical" href="{{ canonical_url }}">
 {%- endif -%}
 
-<!-- Google Search Console Verification -->
-<meta name="google-site-verification" content="0XjygBLybTF35ZAHvZyakfLRQcavvIIhhP50PRXaJEQ" />
-
 {%- if settings.favicon != blank -%}
   {%- liquid
     assign image_type = settings.favicon | split: '?' | first | split: '.' | last | downcase
