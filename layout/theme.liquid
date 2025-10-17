@@ -47,12 +47,10 @@
   {%- endif -%}
 
   {%- unless base_font.system? -%}
-    <link rel="preload" as="font" href="{{ base_font | font_url }}" type="font/woff2" crossorigin>
-  {%- endunless -%}
+{{ base_font | font_url | preload_tag: as: 'font', type: 'font/woff2', crossorigin: true }}  {%- endunless -%}
 
   {%- unless heading_font.system? -%}
-    <link rel="preload" as="font" href="{{ heading_font | font_url }}" type="font/woff2" crossorigin>
-  {%- endunless -%}
+{{ heading_font | font_url | preload_tag: as: 'font', type: 'font/woff2', crossorigin: true }}  {%- endunless -%}
 
   <script>
     document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
