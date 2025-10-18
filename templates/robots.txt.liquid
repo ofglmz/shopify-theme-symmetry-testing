@@ -1,15 +1,57 @@
-# Robots.txt for Savaé Design Shopify Store
+# Shopify Robots.txt - Savaé Design
+
+# Optimized for SEO - 2025
 
 User-agent: *
-# Engellenmesi gereken özel sayfalar
+
+# Block checkout and account pages
+
 Disallow: /checkout
+
 Disallow: /cart
+
 Disallow: /orders
+
 Disallow: /account
+
 Disallow: /admin
 
-# Tüm diğer sayfalar indekslenebilir
-Allow: /
+# Block search pages (avoid duplicate content)
 
-# Sitemap konumu
+Disallow: /search
+
+Disallow: /search?*
+
+# Block collection sorting and filtering parameters (avoid duplicate content)
+
+Disallow: /collections/*?sort_by=
+
+Disallow: /collections/*?filter.
+
+Disallow: /collections/*?page=
+
+Disallow: /collections/*?*sort_by=
+
+Disallow: /collections/*?*filter.
+
+# Block Shopify system pages
+
+Disallow: /policies/
+
+Disallow: /apps/
+
+Disallow: /services/
+
+# Allow important pages
+
+Allow: /collections/
+
+Allow: /products/
+
+Allow: /pages/
+
+Allow: /blogs/
+
+# Sitemap location
+
 Sitemap: https://www.savaedesign.com/sitemap.xml
