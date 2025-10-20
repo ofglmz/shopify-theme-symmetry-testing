@@ -9,6 +9,20 @@
 -%}
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}" dir="{{ lang_dir }}">
+  
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  document.addEventListener('DOMContentLoaded', function () {
+    const productIdElement = document.querySelector('[data-product-id]');
+    if (productIdElement) {
+      const productId = productIdElement.getAttribute('data-product-id');
+      window.meta = window.meta || {};
+      window.meta.product = window.meta.product || {};
+      window.meta.product.content_id = `shopify_${productId}`;
+    }
+  });
+</script>
+
 <head>
   {%- render 'doc-head-core' -%}
   {%- render 'doc-head-social' -%}
