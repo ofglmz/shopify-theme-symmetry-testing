@@ -47,10 +47,16 @@
   {%- endif -%}
 
   {%- unless base_font.system? -%}
-{{ base_font | font_url | preload_tag: as: 'font', type: 'font/woff2', crossorigin: true }}  {%- endunless -%}
+{%- if heading_font != blank -%}
+  {{ heading_font | font_url | preload_tag: as: 'font', type: 'font/woff2', crossorigin: true }}
+{%- endif -%}
+{%- endunless -%}
 
   {%- unless heading_font.system? -%}
-{{ heading_font | font_url | preload_tag: as: 'font', type: 'font/woff2', crossorigin: true }}  {%- endunless -%}
+{%- if heading_font != blank -%}
+  {{ heading_font | font_url | preload_tag: as: 'font', type: 'font/woff2', crossorigin: true }}
+{%- endif -%}
+{%- endunless -%}
 
   <script>
     document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
