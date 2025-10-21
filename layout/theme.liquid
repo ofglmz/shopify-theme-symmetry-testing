@@ -39,13 +39,14 @@
     {%- render 'doc-head-styles' -%}
   </style>
 
+  {%- comment -%}
   {{ 'main.css' | asset_url | stylesheet_tag: preload: true }}
 
   {%- if settings.swatch_source == 'theme' and settings.swatch_value_list != blank -%}
     <link rel="stylesheet" href="{{ 'swatches.css' | asset_url }}" media="print" onload="this.media='all'">
     <noscript><link rel="stylesheet" href="{{ 'swatches.css' | asset_url }}"></noscript>
   {%- endif -%}
-
+  {%- endcomment -%}
   {%- unless base_font.system? -%}
 {%- if heading_font != blank -%}
   {{ heading_font | font_url | preload_tag: as: 'font', type: 'font/woff2', crossorigin: true }}
