@@ -272,6 +272,17 @@
     "16359281184fd0d618": {
       "type": "testimonials",
       "blocks": {
+        "testimonial_HGwCkB": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "So beautiful 😍! It's now my favorite necklace. So dainty and so pretty. Amazing customer service! Thank you for all your help.",
+            "author": "Lauri C.",
+            "image": "shopify://shop_images/Lauri_c..webp",
+            "image_caption": "",
+            "link": ""
+          }
+        },
         "16359281184fd0d618-0": {
           "type": "testimonial",
           "settings": {
@@ -296,6 +307,7 @@
         }
       },
       "block_order": [
+        "testimonial_HGwCkB",
         "16359281184fd0d618-0",
         "16359281184fd0d618-1"
       ],
