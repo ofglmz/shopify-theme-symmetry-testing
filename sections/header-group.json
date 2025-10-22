@@ -96,7 +96,7 @@
           "type": "message",
           "settings": {
             "heading": "",
-            "subheading": "Free shipping on orders over $100",
+            "subheading": "Free shipping on orders over $50",
             "link_url": ""
           }
         },
