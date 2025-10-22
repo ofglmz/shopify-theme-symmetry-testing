@@ -18,7 +18,7 @@
           "type": "icon",
           "settings": {
             "icon": "truck",
-            "text": "Free delivery!",
+            "text": "Enjoy free shipping on $50+ orders",
             "link_url": ""
           }
         },
@@ -37,21 +37,12 @@
             "text": "Gift cards",
             "link_url": ""
           }
-        },
-        "1478527611164": {
-          "type": "icon",
-          "settings": {
-            "icon": "heart",
-            "text": "Student discount",
-            "link_url": ""
-          }
         }
       },
       "block_order": [
         "1478526632862",
         "1478526645605",
-        "1478526647261",
-        "1478527611164"
+        "1478526647261"
       ],
       "settings": {
         "cross_page_promo_bg": "#ffffff",

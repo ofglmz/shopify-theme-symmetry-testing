@@ -184,7 +184,7 @@
         "2e5b8e45-d07b-473e-9562-15a4d3d196d5"
       ],
       "settings": {
-        "image": "shopify://shop_images/imgi_105_s-l1600.jpg",
+        "image": "shopify://shop_images/WhatsApp_Image_2025-10-18_at_14.07.24.jpg",
         "image_2": "shopify://shop_images/Scc37b5765b0c44b6842515b71d4a96a87.webp",
         "image_width": 370,
         "image_link": "shopify://collections/necklace",
@@ -276,9 +276,9 @@
           "type": "testimonial",
           "settings": {
             "star_rating": 5,
-            "testimonial": "The Birthstone I bought feels so special. It fits perfectly and looks luxurious. You can tell it’s made with care and attention to detail.",
+            "testimonial": "The necklace is beautiful! It is exactly what I ordered. They reached out when it shipped, and it showed up earlier than I thought it was going to.",
             "author": "Ranya T.",
-            "image": "shopify://shop_images/imgi_101_s-l1600.jpg",
+            "image": "shopify://shop_images/Melinda_S..avif",
             "image_caption": "Birthstone",
             "link": "shopify://collections/birthstone"
           }
@@ -287,8 +287,9 @@
           "type": "testimonial",
           "settings": {
             "star_rating": 5,
-            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
-            "author": "Author's name",
+            "testimonial": "Absolutely stunning! The bracelet looks even better in person elegant, shiny, and very well crafted. The packaging was beautiful and gave a premium feeling from the moment I opened it. Fits perfectly and feels comfortable to wear every day. Shipping was also fast and smooth. Definitely worth it!",
+            "author": "Mert Eren Z.",
+            "image": "shopify://shop_images/mert_yorum.jpg",
             "image_caption": "",
             "link": ""
           }
