@@ -414,52 +414,6 @@
     },
     "slideshow_YYkiBA": {
       "type": "slideshow",
-      "blocks": {
-        "image_9biadB": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/image...._a372a936-8670-4223-8fdc-e57784962cb7.png",
-            "slide_link": "shopify://collections/bracelet",
-            "subheading": "",
-            "title": "Shine Bright with Every Layer",
-            "heading_max_width": 15,
-            "title_size": 84,
-            "title_size_mobile": 46,
-            "use_h1": false,
-            "text": "<p>✨ <em>Each necklace is designed to highlight your natural beauty and elevate every look.</em></p><p><br/></p>",
-            "enlarge_text": false,
-            "button_label_1": "Shop all",
-            "button_url_1": "shopify://collections/rings",
-            "button_label_2": "Shop all",
-            "button_url_2": "shopify://collections/bracelet",
-            "text_alignment": "center center"
-          }
-        },
-        "image_xRt9x7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/S44aee12e592b42e58dd6e50c03c41bf4R.avif",
-            "slide_link": "shopify://collections/earring",
-            "subheading": "",
-            "title": "Shine Bright with Every Layer",
-            "heading_max_width": 15,
-            "title_size": 84,
-            "title_size_mobile": 46,
-            "use_h1": false,
-            "text": "<p>💎 <em>Handcrafted with care, made to sparkle for every occasion.</em></p><p><br/></p>",
-            "enlarge_text": true,
-            "button_label_1": "Shop this",
-            "button_url_1": "",
-            "button_label_2": "Shop all",
-            "button_url_2": "",
-            "text_alignment": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "image_9biadB",
-        "image_xRt9x7"
-      ],
       "name": "Slideshow",
       "settings": {
         "height": "fixed",
