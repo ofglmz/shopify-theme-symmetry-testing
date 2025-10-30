@@ -272,13 +272,24 @@
     "16359281184fd0d618": {
       "type": "testimonials",
       "blocks": {
+        "16359281184fd0d618-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Absolutely stunning! The bracelet looks even better in person elegant, shiny, and very well crafted. The packaging was beautiful and gave a premium feeling from the moment I opened it. Fits perfectly and feels comfortable to wear every day. Shipping was also fast and smooth. Definitely worth it!",
+            "author": "Mert Eren Z.",
+            "image": "shopify://shop_images/mert_yorum.jpg",
+            "image_caption": "",
+            "link": ""
+          }
+        },
         "testimonial_HGwCkB": {
           "type": "testimonial",
           "settings": {
             "star_rating": 5,
             "testimonial": "So beautiful 😍! It's now my favorite necklace. So dainty and so pretty. Amazing customer service! Thank you for all your help.",
             "author": "Lauri C.",
-            "image": "shopify://shop_images/Lauri_c..webp",
+            "image": "shopify://shop_images/imgi_104_15013277-1745347174196.jpg",
             "image_caption": "",
             "link": ""
           }
@@ -294,22 +305,46 @@
             "link": "shopify://collections/birthstone"
           }
         },
-        "16359281184fd0d618-1": {
+        "testimonial_3CwTgp": {
           "type": "testimonial",
           "settings": {
             "star_rating": 5,
-            "testimonial": "Absolutely stunning! The bracelet looks even better in person elegant, shiny, and very well crafted. The packaging was beautiful and gave a premium feeling from the moment I opened it. Fits perfectly and feels comfortable to wear every day. Shipping was also fast and smooth. Definitely worth it!",
-            "author": "Mert Eren Z.",
-            "image": "shopify://shop_images/mert_yorum.jpg",
+            "testimonial": "The item came quickly and was super well crafted and it’s such a beautiful gift!",
+            "author": "Rachel M.",
+            "image": "shopify://shop_images/imgi_21_113172656-1759643639051.jpg",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "testimonial_FNWR3H": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "I really like it, I just took a shower. I used shower gel and soap, and there's no color change or darkening right now, sweetie. I'll get the other colors too.",
+            "author": "Melissa N.",
+            "image": "shopify://shop_images/imgi_42_32753344-1753224980539.jpg",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "testimonial_dtHmpH": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
+            "author": "Author's name",
             "image_caption": "",
             "link": ""
           }
         }
       },
       "block_order": [
+        "16359281184fd0d618-1",
         "testimonial_HGwCkB",
         "16359281184fd0d618-0",
-        "16359281184fd0d618-1"
+        "testimonial_3CwTgp",
+        "testimonial_FNWR3H",
+        "testimonial_dtHmpH"
       ],
       "settings": {
         "title": "From the people",
