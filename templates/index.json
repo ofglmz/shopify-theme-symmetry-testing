@@ -183,6 +183,7 @@
         "ae36be52-0e56-4829-ac5d-f47fd671d46b",
         "2e5b8e45-d07b-473e-9562-15a4d3d196d5"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/WhatsApp_Image_2025-10-18_at_14.07.24.jpg",
         "image_2": "shopify://shop_images/Scc37b5765b0c44b6842515b71d4a96a87.webp",
@@ -251,6 +252,7 @@
         "16359279164ff7d3f3-2",
         "474c4491-283d-4680-a37b-7b5a444e7e62"
       ],
+      "disabled": true,
       "settings": {
         "grid_desktop": 2,
         "grid_mobile": "1",
@@ -480,83 +482,6 @@
         "color_scheme": "default"
       }
     },
-    "1635928580d75f81bf": {
-      "type": "featured-product",
-      "blocks": {
-        "1635928580d75f81bf-0": {
-          "type": "title",
-          "settings": {}
-        },
-        "1635928580d75f81bf-1": {
-          "type": "price",
-          "settings": {
-            "show_tax_and_shipping": false,
-            "enable_product_reviews_by_price": true
-          }
-        },
-        "1635928580d75f81bf-2": {
-          "type": "vendor",
-          "settings": {}
-        },
-        "1635928580d75f81bf-3": {
-          "type": "divider",
-          "settings": {}
-        },
-        "1635928580d75f81bf-4": {
-          "type": "variant-picker",
-          "settings": {
-            "show_single": false,
-            "selector_style": "listed",
-            "dynamic_availability": "show",
-            "enable_size_chart": false,
-            "size_chart_label": "Size guide",
-            "size_chart_variant": "Size",
-            "size_chart_page": ""
-          }
-        },
-        "1635928580d75f81bf-5": {
-          "type": "buy-buttons",
-          "settings": {
-            "show_quantity_selector": true,
-            "enable_payment_button": true,
-            "show_backorder_text": false,
-            "show_gift_card_recipient": false
-          }
-        },
-        "1635928580d75f81bf-6": {
-          "type": "description",
-          "settings": {
-            "show_in_tab": false,
-            "open_tab": false,
-            "icon": ""
-          }
-        }
-      },
-      "block_order": [
-        "1635928580d75f81bf-0",
-        "1635928580d75f81bf-1",
-        "1635928580d75f81bf-2",
-        "1635928580d75f81bf-3",
-        "1635928580d75f81bf-4",
-        "1635928580d75f81bf-5",
-        "1635928580d75f81bf-6"
-      ],
-      "settings": {
-        "product": "925-sterling-silver-sunflower-diamond-zircon-rotatable-ring-kopya4",
-        "select_first_variant": true,
-        "inventory_transfers_enable": true,
-        "enable_sticky_columns": false,
-        "gallery_size": "medium",
-        "gallery_layout": "carousel-under",
-        "enable_zoom": true,
-        "show_alt_text": false,
-        "alt_text_icon": "",
-        "enable_video_autoplay": false,
-        "enable_video_looping": false,
-        "enable_media_grouping": false,
-        "media_grouping_option": "Color,Colour,Couleur,Farbe"
-      }
-    },
     "1635928697c562053a": {
       "type": "map",
       "disabled": true,
@@ -586,66 +511,6 @@
         "show_excerpts": true,
         "crop_ratio": "1.78",
         "color_scheme": "2"
-      }
-    },
-    "collection_list_4TDBk9": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_Hycb9z": {
-          "type": "collection",
-          "settings": {
-            "collection": "bracelet",
-            "subheading": "",
-            "button_label": ""
-          }
-        },
-        "collection_KXHtyd": {
-          "type": "collection",
-          "settings": {
-            "collection": "charms",
-            "subheading": "",
-            "button_label": ""
-          }
-        },
-        "collection_3QyTF7": {
-          "type": "collection",
-          "settings": {
-            "collection": "stackable-rings",
-            "subheading": "",
-            "button_label": ""
-          }
-        },
-        "collection_FcmgXh": {
-          "type": "collection",
-          "settings": {
-            "collection": "necklace",
-            "subheading": "",
-            "button_label": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_Hycb9z",
-        "collection_KXHtyd",
-        "collection_3QyTF7",
-        "collection_FcmgXh"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "title": "Collection list",
-        "enable_carousel": true,
-        "grid": 4,
-        "color_scheme": "default",
-        "full_width": true,
-        "coll_grid_image_shape": "square",
-        "coll_grid_image_position": "center center",
-        "coll_thumb_mob_per_row": "2",
-        "coll_grid_show_count": true,
-        "coll_text_position": "below",
-        "coll_text_position_under_mobile": false,
-        "coll_thumb_text_align_x": "center",
-        "coll_thumb_text_align_y": "center",
-        "coll_button_style": "primary"
       }
     },
     "1635927863703110df": {
@@ -691,10 +556,8 @@
     "16359285201c71bbb1",
     "slideshow_YYkiBA",
     "163592857728b8bdc2",
-    "1635928580d75f81bf",
     "1635928697c562053a",
     "163592870141219e2f",
-    "collection_list_4TDBk9",
     "1635927863703110df"
   ]
 }
