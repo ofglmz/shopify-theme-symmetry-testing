@@ -328,16 +328,6 @@
             "image_caption": "",
             "link": ""
           }
-        },
-        "testimonial_dtHmpH": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": 5,
-            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
-            "author": "Author's name",
-            "image_caption": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
@@ -345,8 +335,7 @@
         "testimonial_HGwCkB",
         "16359281184fd0d618-0",
         "testimonial_3CwTgp",
-        "testimonial_FNWR3H",
-        "testimonial_dtHmpH"
+        "testimonial_FNWR3H"
       ],
       "settings": {
         "title": "From the people",
