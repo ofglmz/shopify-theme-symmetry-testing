@@ -92,19 +92,11 @@
     "store-messages": {
       "type": "store-messages",
       "blocks": {
-        "1601308104445": {
-          "type": "message",
-          "settings": {
-            "heading": "",
-            "subheading": "Free shipping on orders over $50",
-            "link_url": ""
-          }
-        },
         "1601308125690": {
           "type": "message",
           "settings": {
             "heading": "",
-            "subheading": "40% discount in cart",
+            "subheading": "40% Off in Cart",
             "link_url": ""
           }
         },
@@ -112,15 +104,23 @@
           "type": "message",
           "settings": {
             "heading": "",
-            "subheading": "Free and easy domestic returns",
+            "subheading": "50% Off Your 2nd Item",
+            "link_url": ""
+          }
+        },
+        "1601308104445": {
+          "type": "message",
+          "settings": {
+            "heading": "",
+            "subheading": "Free Shipping on Orders Over $50",
             "link_url": ""
           }
         }
       },
       "block_order": [
-        "1601308104445",
         "1601308125690",
-        "1601308127822"
+        "1601308127822",
+        "1601308104445"
       ],
       "settings": {
         "head_not_home_only": false,
