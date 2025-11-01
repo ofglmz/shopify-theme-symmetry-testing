@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/Can_you_generate_202507102040_dkta0.gif",
             "mobile_image": "shopify://shop_images/Can_you_generate_202507102040_dkta0.gif",
-            "slide_link": "shopify://collections",
+            "slide_link": "shopify://collections/bestsellers",
             "subheading": "",
             "title": "Timeless Necklaces, Endless Charm",
             "heading_max_width": 12,
@@ -27,9 +27,9 @@
             "text": "<p><em>Wear your story, one necklace at a time.</em><br/></p><p></p>",
             "enlarge_text": true,
             "button_label_1": "Shop this",
-            "button_url_1": "",
+            "button_url_1": "shopify://collections/bestsellers",
             "button_label_2": "Shop all",
-            "button_url_2": "",
+            "button_url_2": "shopify://collections/bestsellers",
             "text_alignment": "center center"
           }
         },
