@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/3_boyut.png",
             "mobile_image": "shopify://shop_images/Christmas_Special.png",
-            "slide_link": "",
+            "slide_link": "shopify://collections/bestsellers",
             "subheading": "",
             "title": "",
             "heading_max_width": 15,
