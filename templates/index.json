@@ -301,7 +301,7 @@
           "settings": {
             "star_rating": 5,
             "testimonial": "Absolutely stunning! The bracelet looks even better in person elegant, shiny, and very well crafted. The packaging was beautiful and gave a premium feeling from the moment I opened it. Fits perfectly and feels comfortable to wear every day. Shipping was also fast and smooth. Definitely worth it!",
-            "author": "Mert Eren Z.",
+            "author": "Angela N.",
             "image": "shopify://shop_images/mert_yorum.jpg",
             "image_caption": "",
             "link": ""
@@ -318,15 +318,15 @@
             "link": ""
           }
         },
-        "16359281184fd0d618-0": {
+        "testimonial_6NTHf3": {
           "type": "testimonial",
           "settings": {
             "star_rating": 5,
-            "testimonial": "The necklace is beautiful! It is exactly what I ordered. They reached out when it shipped, and it showed up earlier than I thought it was going to.",
-            "author": "Ranya T.",
-            "image": "shopify://shop_images/Melinda_S..avif",
-            "image_caption": "Birthstone",
-            "link": "shopify://collections/birthstone"
+            "testimonial": "Very Beautiful and dainty! I’ve been wearing it nonstop and so far so good :)",
+            "author": "Ancuta C.",
+            "image": "shopify://shop_images/imgi_130_iap_1200x1200.5524315115_q881qswb.jpg",
+            "image_caption": "",
+            "link": ""
           }
         },
         "testimonial_3CwTgp": {
@@ -351,17 +351,6 @@
             "link": ""
           }
         },
-        "testimonial_6NTHf3": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": 5,
-            "testimonial": "Very Beautiful and dainty! I’ve been wearing it nonstop and so far so good :)",
-            "author": "Ancuta C.",
-            "image": "shopify://shop_images/imgi_130_iap_1200x1200.5524315115_q881qswb.jpg",
-            "image_caption": "",
-            "link": ""
-          }
-        },
         "testimonial_j8t9c7": {
           "type": "testimonial",
           "settings": {
@@ -372,16 +361,27 @@
             "image_caption": "",
             "link": ""
           }
+        },
+        "16359281184fd0d618-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "The necklace is beautiful! It is exactly what I ordered. They reached out when it shipped, and it showed up earlier than I thought it was going to.",
+            "author": "Ranya T.",
+            "image": "shopify://shop_images/Melinda_S..avif",
+            "image_caption": "Birthstone",
+            "link": "shopify://collections/birthstone"
+          }
         }
       },
       "block_order": [
         "16359281184fd0d618-1",
         "testimonial_HGwCkB",
-        "16359281184fd0d618-0",
+        "testimonial_6NTHf3",
         "testimonial_3CwTgp",
         "testimonial_FNWR3H",
-        "testimonial_6NTHf3",
-        "testimonial_j8t9c7"
+        "testimonial_j8t9c7",
+        "16359281184fd0d618-0"
       ],
       "settings": {
         "title": "From the people",
