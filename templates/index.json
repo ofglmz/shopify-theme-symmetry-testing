@@ -335,7 +335,7 @@
             "star_rating": 5,
             "testimonial": "The item came quickly and was super well crafted and it’s such a beautiful gift!",
             "author": "Rachel M.",
-            "image": "shopify://shop_images/imgi_21_113172656-1759643639051.jpg",
+            "image": "shopify://shop_images/imgi_168_iap_1200x1200.6922542484_ejfwcebe.jpg",
             "image_caption": "",
             "link": ""
           }
@@ -350,6 +350,28 @@
             "image_caption": "",
             "link": ""
           }
+        },
+        "testimonial_6NTHf3": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Very Beautiful and dainty! I’ve been wearing it nonstop and so far so good :)",
+            "author": "Ancuta C.",
+            "image": "shopify://shop_images/imgi_130_iap_1200x1200.5524315115_q881qswb.jpg",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "testimonial_j8t9c7": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "I am always pleasantly surprised with how beautiful this shops jewelry is. I’ve purchased multiple for myself and as gifts and I’m never disappointed!",
+            "author": "Lİly T.",
+            "image": "shopify://shop_images/imgi_166_iap_1200x1200.7310872134_5budp3an.jpg",
+            "image_caption": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -357,7 +379,9 @@
         "testimonial_HGwCkB",
         "16359281184fd0d618-0",
         "testimonial_3CwTgp",
-        "testimonial_FNWR3H"
+        "testimonial_FNWR3H",
+        "testimonial_6NTHf3",
+        "testimonial_j8t9c7"
       ],
       "settings": {
         "title": "From the people",
